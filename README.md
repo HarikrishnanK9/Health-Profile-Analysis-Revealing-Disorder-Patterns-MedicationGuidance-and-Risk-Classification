@@ -1,5 +1,5 @@
 ### Health-Profile-Analysis-Revealing-Disorder-Patterns-MedicationGuidance-and-Risk-Classification
-If you use this repository, please cite it as follows:  
+If you use this repository,cite it as follows:  
 
 ```bibtex
 @software{Health_Profile_Analysis2023,
